@@ -71,3 +71,7 @@ For more details on how to use it, please check the [corresponding docs](cnf-tes
 ### Example RAN profile
 
 An example RAN profile is provided in [feature-configs/cn-ran-overlays](feature-configs/cn-ran-overlays)
+
+### Example Zero Touch Provisioning (ZTP) workflow
+
+An example ZTP workflow is provided in [ztp](ztp)
